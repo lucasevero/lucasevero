@@ -15,14 +15,14 @@ During our Bootcamp we could study and hands-on develop projects using:
 
 ### Check out my projects:
 
-<a href="http://rentaninst.herokuapp.com/">
-  <img alt="Instrument Rental" src="https://res.cloudinary.com/rent-an-instrument/image/upload/v1622641825/egqkqzb8itklcsndvwhm.svg"/>
-</a>
 <a href="http://jamz.club/">
   <img alt="Jamz" src="https://res.cloudinary.com/dsau5l93q/image/upload/v1648097939/Jamz_m8cdgq.svg"/>
 
 </a>
-
+<br>
+<a href="http://rentaninst.herokuapp.com/">
+  <img alt="Instrument Rental" src="https://res.cloudinary.com/rent-an-instrument/image/upload/v1622641825/egqkqzb8itklcsndvwhm.svg"/>
+</a>
 
 ### Reach me out:
 
@@ -30,7 +30,6 @@ During our Bootcamp we could study and hands-on develop projects using:
 
 
 <!--
-**cvaldivia83/cvaldivia83** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
